@@ -1,0 +1,11 @@
+sort1 uses: BubbleSort
+
+How do you know?: Bubble Sort is around the middle of the three. It also has a time complexity of O(n^2) meaning that the runtime value goes quadratically meaning that it takes more time to check over each value because of the time complexity, but at the same time it checks two at a time. As seen by the various amounts of testing I commiteed to find the result.
+
+sort2 uses: MergeSort
+
+How do you know?:  Among the three, Merge Sort is the fastest. It has a time complexity of O(n log n), this means that the runtime is defined logarithmically, which means it scales efficiently even for larger data sets.
+
+sort3 uses: SelectionSort
+
+How do you know?: As selection sort uses the same time complexity as the bubble sort it is relativily slower as it goes over each value not in pairs but in singles which makes the process go less efficient, again as seen by the various testing committed selection sort came out the slowest. 
